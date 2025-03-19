@@ -8,6 +8,7 @@ public class main {
         System.out.println("shivam rathore");
         System.out.println(LocalDate.now());
         System.out.println(new Date());
+        Student s=new Student();
         
     
     }
