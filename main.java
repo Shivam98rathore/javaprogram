@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.util.Date;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
        
         System.out.println("hello world");
